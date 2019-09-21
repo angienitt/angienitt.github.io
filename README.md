@@ -15,9 +15,9 @@
 
 [ДЗ №6](https://yadi.sk/d/PhahQlwDXVvDPA) - Верстка первого макета
 
-[ДЗ №7](https://github.com/angienitt/angienitt.github.io/tree/master/lesson_8/src) - Блок с преимуществами
+[ДЗ №7](https://angienitt.github.io/lesson_8/src/) - Блок с преимуществами
 
-[ДЗ №8](https://github.com/angienitt/angienitt.github.io/tree/master/lesson_9/src) - Макет на bootstrap + адаптация
+[ДЗ №8](https://angienitt.github.io/lesson_9/src/) - Макет на bootstrap + адаптация
 
 [ДЗ №8](https://github.com/angienitt/angienitt.github.io/blob/master/main.less) - LESS код
 
