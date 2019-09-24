@@ -24,3 +24,5 @@
 [ДЗ №9](https://github.com/angienitt/angienitt.github.io/tree/master/lesson_11) - Сниппет стартового шаблона + сниппет css
 
 [ДЗ №10](https://angienitt.github.io/pixperfect/src/) - О боже за что мне этот пиксель перфект который не такой уж и перфект, мне пришлось просмотреть кучу инфы чтобы получить хотя бы это
+
+[ДЗ №10](https://angienitt.github.io/project/src/) - Верстка шапки сайта
