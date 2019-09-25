@@ -30,3 +30,5 @@
 [ДЗ №12](https://angienitt.github.io/lesson_14/src/) - Подбор шрифтов
 
 [ДЗ №13](https://angienitt.github.io/my_site/src/) - Верстка первого экрана
+
+[ДЗ №14](https://angienitt.github.io/hover/index.html) - Использование псевдоэлементов и псевдоклассов
