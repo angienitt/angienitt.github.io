@@ -28,3 +28,5 @@
 [ДЗ №11](https://angienitt.github.io/project/src/) - Верстка шапки сайта
 
 [ДЗ №12](https://angienitt.github.io/lesson_14/src/) - Подбор шрифтов
+
+[ДЗ №13](https://angienitt.github.io/my_site/src/) - Верстка первого экрана
