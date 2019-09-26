@@ -32,3 +32,5 @@
 [ДЗ №13](https://angienitt.github.io/my_site/src/) - Верстка первого экрана
 
 [ДЗ №14](https://angienitt.github.io/hover/index.html) - Использование псевдоэлементов и псевдоклассов
+
+[ДЗ №15](https://angienitt.github.io/mobile/src/index.html) - Практика адаптации мобильной верстки
