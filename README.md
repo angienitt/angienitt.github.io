@@ -34,3 +34,5 @@
 [ДЗ №14](https://angienitt.github.io/hover/index.html) - Использование псевдоэлементов и псевдоклассов
 
 [ДЗ №15](https://angienitt.github.io/mobile/src/index.html) - Практика адаптации мобильной верстки
+
+[ДЗ №16](https://angienitt.github.io/slider/src/) - Слайдер на fotorama
