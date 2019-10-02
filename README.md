@@ -36,3 +36,5 @@
 [ДЗ №15](https://angienitt.github.io/mobile/src/index.html) - Практика адаптации мобильной верстки
 
 [ДЗ №16](https://angienitt.github.io/slider/src/) - Слайдер на fotorama
+
+[ДЗ №16](https://angienitt.github.io/sweet%20alert/src/index.html) - Всплывающее окно через sweet alert
