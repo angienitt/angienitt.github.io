@@ -38,3 +38,5 @@
 [ДЗ №16](https://angienitt.github.io/slider/src/) - Слайдер на fotorama
 
 [ДЗ №17](https://angienitt.github.io/sweet%20alert/src/index.html) - Всплывающее окно через sweet alert
+
+[ДЗ №17](https://angienitt.github.io/modal-window/src/) - Еще одно всплывающее окно
