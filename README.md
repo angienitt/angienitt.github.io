@@ -42,3 +42,5 @@
 [ДЗ №17](https://angienitt.github.io/modal-window/src/) - Еще одно всплывающее окно
 
 [ДЗ №18](https://angienitt.github.io/popup/src/) - Подключенное всплывающее окно к кнопке в шапке сайта
+
+[ДЗ №19](https://angienitt.github.io/tabs/src/index.html) - Форма авторизации (вкладки кликабельны)
