@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+body{
+	font-family: 'Ubuntu', sans-serif;
+	background-image: url(../img/bg.jpg);
+}
+.main{
+	margin-top: 170px;
+}
+h1{
+	font-size: 3.6rem;
+	font-weight: bold;
+	color: #0bbaf0; 
+	text-align: center;
+	text-transform: uppercase;
+}
+p{
+	font-size: 2.4rem;
+	color: #0bbaf0;
+	text-align: center;
+	text-transform: uppercase;
+}
+hr{
+	width: 124px;
+	border-top: 1px solid #c4c4c4;
+	text-align: center;
+}
+a:hover, a:focus{
+	text-decoration: none;
+}
+.panel-group{
+	width: 860px;
+	margin-left: 150px;
+}
+.panel-default>.panel-heading{
+	background-color: #0bbaf0;
+	color: #fff;
+}
+.panel-body{
+	padding: 20px;
+	font-size: 2.2rem;
+	color: #535353;
+	text-align: left;
+}
+.panel-collapse{
+	margin-left: 5px;
+	width: 846px;
+	height: 142px;
+	border-radius: 10px;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+	border-right: 4px solid #dcdcdc;
+	border-left: 4px solid #dcdcdc;
+	border-bottom: 4px solid #dcdcdc;
+	background-color: #fff;
+} 
+.panel-default{
+	border: none;
+}
+.panel{
+	background-color: transparent;
+}
+.panel-heading{
+	border-radius: 0;
+}
+.panel-group .panel{
+	margin-bottom: -3px;
+}
