@@ -46,3 +46,5 @@
 [ДЗ №19](https://angienitt.github.io/tabs/src/index.html) - Форма авторизации (вкладки кликабельны)
 
 [ДЗ №20](https://angienitt.github.io/accordion/src/) - Аккордеон на bootstrap
+
+[ДЗ №21](https://angienitt.github.io/price-block/src/) - Добавлен блок с ценами
