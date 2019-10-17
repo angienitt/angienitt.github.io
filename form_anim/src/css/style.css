@@ -1,0 +1,213 @@
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('../fonts/MyriadPro-Regular.eot');
+    src: url('../fonts/MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/MyriadPro-Regular.woff2') format('woff2'),
+        url('../fonts/MyriadPro-Regular.woff') format('woff'),
+        url('../fonts/MyriadPro-Regular.ttf') format('truetype'),
+        url('../fonts/MyriadPro-Regular.svg#MyriadPro-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+	font-family: 'Myriad Pro', sans-serif;
+	font-size: 2.4rem;
+	margin: 0;
+	padding: 0;	
+	background-image: url(https://i.pinimg.com/originals/a0/eb/4c/a0eb4c1d529226737b6078c06704bc4f.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+.wrapper{
+	border-radius: 40px;
+	width:800px;
+	height:500px;
+	background-image: url(../img/bg.png);
+	-webkit-background-size: cover;
+	background-size: cover;
+	position:absolute;
+	left:50%;
+	margin-left:-400px;
+	top:50%;
+	margin-top:-250px;
+}
+.form{
+	position: absolute;
+	top: 48%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 629px;
+	height: 444px;
+}
+a:hover{
+	color: #901d1d;
+}
+.form a{
+	text-decoration: none;
+}
+.form input[type="text"], input[type="password"]{
+	display: block;
+	width: 100%;
+	outline: none;
+}
+.tab-form{
+	padding: 60px 45px 20px;
+	background-color: #000;
+	width: 584px;	
+	height: 364px;
+	border-radius: 8px; 
+ box-shadow: 1px 1px 1px 0 rgba(255, 255, 255, 0.75);
+}
+.box{ 	
+	display: none;
+	margin-top: -5px;
+ padding: 25px;
+	width: 632px;	
+	height: 414px;
+ border-radius: 8px;
+ box-shadow: inset 1px 1px 1px 0 rgba(255, 255, 255, 0.75);
+ border: solid 1px #047ca0;
+ background: linear-gradient(to top, #0494bf, #03a6dc);
+ }
+ .box.active{
+ 	display: block;
+ }
+.fog-pass{
+	display: block;
+	margin-top: -10px;
+	margin-left: 25px;
+	font-size: 1.5rem;
+	color: #c51f03;
+}
+.checkbox{
+	margin-top: 5.5rem;
+	margin-left: 4.2rem;
+	display: block;
+	font-size: 1.5rem;
+	font-weight: 900;
+	line-height: 2.2rem;
+}
+::-webkit-input-placeholder {
+  color: #fff;
+  opacity: 0.6;
+}
+.input-login{
+	background: url(../img/bg-input.png);
+	caret-color: #0494bf; 
+	color: #fff; 
+	height: 61px;	
+	-webkit-background-size: cover;
+	background-size: cover;
+	padding-left: 24px;
+	border: none;
+	border-radius: 6px;
+	box-shadow: inset 1.5px 2.6px 3px 0 rgba(0, 0, 0, 0.5); 
+	cursor: pointer;
+	margin-bottom: 28px;
+}
+.login{
+	position: absolute;
+	width: 128px;
+	height: 41px;
+	right: -17px;
+	bottom: 30px;
+	border: none;
+	color: #fff;
+	text-align: center;
+	background: radial-gradient(#cf2303, #7f0501);	
+	box-shadow: 1.5px 2.6px 3px 0 rgba(0, 0, 0, 0.5); 
+}
+.ribbon{
+	position: relative;
+	box-shadow: inset 0.5px 0.9px 9px 0 rgba(0, 0, 0, 0.75);
+}
+.ribbon:before, .ribbon:after{
+	width: 22px;
+	height: 18px;
+	content: '';
+	display: block;
+	transform: rotate(-45deg);
+	position: absolute;
+	right: -75px;
+	top: -2px;
+	border: 15px; 
+	border-style: solid;
+	border-color: transparent transparent #7f0501 transparent;
+	z-index: -1;
+}
+.button-eye{
+	width: 32px;
+	height: 32px;
+	background: transparent;
+	border: none;
+	opacity: 0.8;
+ position: absolute;
+ bottom: 180px;
+ right: 80px;
+}
+.button-eye:focus{
+	outline: none;
+}
+label.tab{
+	display: inline-block;
+	padding: 0px 10px;
+	font-weight: normal;
+	height: 40px;
+	font-size: 2.4rem;
+	text-align: center;	
+	border-radius: 8px 8px 0 0; 
+	color: #000;
+	background-color: #fff;
+	cursor: pointer;
+}
+label.tab_1{
+	width: 100px;
+	margin-left: 30px;
+}
+label.tab_2{	
+	width: 155px;
+	margin-left: 5px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+}
+label.active{
+	height: 41px;
+	color: #fff;
+	text-shadow: 1px 1px 2px black;
+	border: solid 1px #047ca0;
+ background: linear-gradient(to top, #0494bf, #03a6dc);
+ box-shadow: inset 1px 1px 1px 0 rgba(255, 255, 255, 0.75);
+}
+.input-reg{
+	width: 100%;
+	background: url(../img/bg-input.png);
+	caret-color: #0494bf; 
+	color: #fff; 
+	height: 61px;	
+	-webkit-background-size: cover;
+	background-size: cover;
+	padding-left: 24px;
+	border: none;
+	border-radius: 6px;
+	box-shadow: inset 1.5px 2.6px 3px 0 rgba(0, 0, 0, 0.5); 
+	cursor: pointer;
+	margin-bottom: 20px;
+}
+.btn-reg{
+	margin: 24px auto;
+	width: 180px;
+	padding: 7px;
+	color: #fff;
+	text-shadow: 1px 1px 2px black;
+	display: block;
+	border: none;
+	background: linear-gradient(to top, #0494bf, #03a6dc);
+	border-radius: 5px;
+}
+.tab-form-2{
+	padding: 45px 45px 20px;
+}
+
+.fadeIn{
+	animation-duration: 3s !important;
+}
