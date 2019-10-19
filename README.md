@@ -52,3 +52,5 @@
 [ДЗ №22](https://angienitt.github.io/form_anim/src/index.html) - Форма авторизации с анимацией
 
 [ДЗ №23](https://angienitt.github.io/reviews/src/) - Блок с отзывами
+
+[ДЗ №24](https://angienitt.github.io/video-bg/src/index.html) - Видеоофон
