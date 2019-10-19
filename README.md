@@ -50,3 +50,5 @@
 [ДЗ №21](https://angienitt.github.io/price-block/src/) - Добавлен блок с ценами
 
 [ДЗ №22](https://angienitt.github.io/form_anim/src/index.html) - Форма авторизации с анимацией
+
+[ДЗ №23](https://angienitt.github.io/reviews/src/) - Блок с отзывами
