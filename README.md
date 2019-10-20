@@ -54,3 +54,5 @@
 [ДЗ №23](https://angienitt.github.io/reviews/src/) - Блок с отзывами
 
 [ДЗ №24](https://angienitt.github.io/video-bg/src/index.html) - Видеоофон
+
+[ДЗ №25](https://angienitt.github.io/feedback_adapt/src/) - Блок с отзывами, адаптированный под маленькие экраны
