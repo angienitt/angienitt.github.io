@@ -58,3 +58,5 @@
 [ДЗ №25](https://angienitt.github.io/feedback_adapt/src/) - Блок с отзывами, адаптированный под маленькие экраны
 
 [ДЗ №26](https://angienitt.github.io/map/src/index.html) - Гео
+
+[ДЗ №27](https://angienitt.github.io/problems_block/src/) -  Блок развеиваем сомнения
