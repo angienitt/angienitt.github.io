@@ -56,3 +56,5 @@
 [ДЗ №24](https://angienitt.github.io/video-bg/src/index.html) - Видеоофон
 
 [ДЗ №25](https://angienitt.github.io/feedback_adapt/src/) - Блок с отзывами, адаптированный под маленькие экраны
+
+[ДЗ №26](https://angienitt.github.io/map/src/index.html) - Гео
